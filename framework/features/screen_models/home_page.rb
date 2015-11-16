@@ -7,7 +7,7 @@ class HomePage < PageActions
   end
 
   def team_link
-    find_element(:link_text, "TEAM")
+    find_element(:link_text, "Team")
   end
 
   def contact_link

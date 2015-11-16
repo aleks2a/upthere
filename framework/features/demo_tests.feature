@@ -16,3 +16,4 @@ Feature: Demo test scenarios
     When I search for "reset password"
     Then I should see 1 search result
 
+

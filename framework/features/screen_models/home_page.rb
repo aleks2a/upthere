@@ -1,6 +1,6 @@
 class HomePage < PageActions
 
-  # element :sign_in, css: "span.text"
+  # element :team_link, link_text: "CONTACT"
 
   def get_home
     driver.get "http://www.upthere.com/"

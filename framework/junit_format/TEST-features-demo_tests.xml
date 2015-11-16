@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="2" time="82.616217" name="Demo test scenarios">
+<testcase classname="Demo test scenarios" name="Verify links on Home page" time="34.960233">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Demo test scenarios" name="Search from Support" time="47.655984">
+  <system-out>
+    <![CDATA["1 article found"
+]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
